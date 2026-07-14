@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHS3xnCwzlPuQ/profile-displaybackgroundimage-shrink_200_800/B56ZiP3Q8AHcAU-/0/1754760286859?e=1785369600&v=beta&t=WAi5f_l-ybfP4yWj75cgj0Y9KLTvUsc0KqyEXs2UJjg">
 <h1 align="center">Hi 👋, I'm Mainuddin Mohammad Khasru</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh, WordPress Expert, AI Agent Developer, Microsoft Certified Solutions Developer (MCSD) & Business Consultant.</h3>
 
